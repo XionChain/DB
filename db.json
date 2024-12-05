@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "numero_documento": "123456789",
+      "nombre_completo": "Juan Pérez"
+    },
+    {
+      "id": 2,
+      "numero_documento": "987654321",
+      "nombre_completo": "Ana Gómez"
+    },
+    {
+      "id": 3,
+      "numero_documento": "112233445",
+      "nombre_completo": "Luis Martínez"
+    },
+    {
+      "id": 4,
+      "numero_documento": "556677889",
+      "nombre_completo": "María López"
+    }
+  ]
+}
